@@ -22,3 +22,5 @@ const person = {
 
 person.sayHi();
 person["sayHi"]();
+
+//

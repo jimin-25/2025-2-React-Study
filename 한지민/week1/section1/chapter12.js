@@ -19,3 +19,5 @@ let varC = (value) => {
 };
 
 console.log(varC(10));
+
+//

@@ -20,3 +20,5 @@ let num1 = 20;
 let numToStr1 = String(num1);
 
 console.log(numToStr1 + "입니다");
+
+//

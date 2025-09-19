@@ -20,3 +20,5 @@ function getArea(width, height) {
 
   return area;
 }
+
+//
