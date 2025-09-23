@@ -8,3 +8,4 @@ setTimeout(() => {
 console.log(3);
 
 // 비동기 작업들은 자바스크립트 엔진이 아닌 Web APIs(브라우저)에서 실행됨
+
